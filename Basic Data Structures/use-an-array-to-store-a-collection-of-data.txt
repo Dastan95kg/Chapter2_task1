@@ -1,0 +1,1 @@
+let yourArray = ['Frontend', 2020, true, null, undefined]; // change this line
